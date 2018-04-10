@@ -1,0 +1,1 @@
+E:\Rx.NET\Rx.NetSequenceBasics\bin\Debug\Rx.NetSequenceBasics.exe.config

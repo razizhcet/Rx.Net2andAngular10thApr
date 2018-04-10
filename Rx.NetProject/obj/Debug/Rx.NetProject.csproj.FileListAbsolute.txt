@@ -1,0 +1,16 @@
+E:\Rx.NET\Rx.NetProject\bin\Debug\Rx.NetProject.exe.config
+E:\Rx.NET\Rx.NetProject\bin\Debug\Rx.NetProject.exe
+E:\Rx.NET\Rx.NetProject\bin\Debug\Rx.NetProject.pdb
+E:\Rx.NET\Rx.NetProject\bin\Debug\System.Reactive.Core.dll
+E:\Rx.NET\Rx.NetProject\bin\Debug\System.Reactive.Interfaces.dll
+E:\Rx.NET\Rx.NetProject\bin\Debug\System.Reactive.Linq.dll
+E:\Rx.NET\Rx.NetProject\bin\Debug\System.Reactive.PlatformServices.dll
+E:\Rx.NET\Rx.NetProject\bin\Debug\System.Reactive.Windows.Threading.dll
+E:\Rx.NET\Rx.NetProject\bin\Debug\System.Reactive.Core.xml
+E:\Rx.NET\Rx.NetProject\bin\Debug\System.Reactive.Interfaces.xml
+E:\Rx.NET\Rx.NetProject\bin\Debug\System.Reactive.Linq.xml
+E:\Rx.NET\Rx.NetProject\bin\Debug\System.Reactive.PlatformServices.xml
+E:\Rx.NET\Rx.NetProject\bin\Debug\System.Reactive.Windows.Threading.xml
+E:\Rx.NET\Rx.NetProject\obj\Debug\Rx.NetProject.csprojResolveAssemblyReference.cache
+E:\Rx.NET\Rx.NetProject\obj\Debug\Rx.NetProject.exe
+E:\Rx.NET\Rx.NetProject\obj\Debug\Rx.NetProject.pdb
